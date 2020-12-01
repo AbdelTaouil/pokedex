@@ -20,19 +20,19 @@ class PokemonSeeder extends Seeder
                 [
                     'nom'=>'Draocfeu',
                     'type_id'=>1,
-                    'image'=>'feu.png',
+                    'image'=>'dracofeu.png',
                     'niveau'=>'56',
                 ],
                 [
                     'nom'=>'Tortant',
                     'type_id'=>2,
-                    'image'=>'eau.png',
+                    'image'=>'tortank.png',
                     'niveau'=>'20',
                 ],
                 [
                     'nom'=>'Herbivor',
                     'type_id'=>3,
-                    'image'=>'plante.png',
+                    'image'=>'herbe.png',
                     'niveau'=>'56',
                 ],
             ],
